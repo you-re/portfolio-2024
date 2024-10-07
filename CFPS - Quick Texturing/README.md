@@ -6,8 +6,8 @@ For the CFPS (Cyber First Person Shooter) project, I was tasked with developing 
 
 ![Video of a 3D shotgun game model](https://github.com/you-re/portfolio-2024/blob/main/CFPS%20-%20Quick%20Texturing/QuickTex.gif)
 
-| Image 1 | Image 2 |
-| ![image](https://github.com/user-attachments/assets/b4dccbe5-5b05-4a46-b1e8-a7d0ac81b61c) | ![image](https://github.com/user-attachments/assets/18b6acc5-da03-4fb9-ad5b-0040e61aacf8) |
+| :Image 1: | :Image 2: |
+| :![](https://github.com/user-attachments/assets/b4dccbe5-5b05-4a46-b1e8-a7d0ac81b61c): | :![](https://github.com/user-attachments/assets/1cf44141-ff1a-4ec4-9570-445777a0da08): |
 
 
 A major challenge was ensuring accurate color representation, as the extracted colors were in a linear format. To resolve this, I wrote a function to convert them back to sRGB. The script was designed to apply the most prominent color (typically the background) to the base material, ensuring a seamless blend with the image on the gun surface. Additionally, the PBR textures were created in Substance Designer to allow for easy recoloring within Blender.
