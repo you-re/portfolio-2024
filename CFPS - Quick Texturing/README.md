@@ -1,7 +1,7 @@
 # CFPS - Quick Texturing
 
 ## Test Subtitle
-![Video of a 3D shotgun game model](https://github.com/you-re/portfolio-2024/blob/main/CFPS%20-%20Quick%20Texturing/QuickTex0001-0050.webm)
+![Video of a 3D shotgun game model](https://github.com/you-re/portfolio-2024/blob/main/CFPS%20-%20Quick%20Texturing/QuickTex.gif)
 
 For the CFPS (Cyber First Person Shooter) project, I was tasked with developing a workflow to streamline the customization of 3D gun models using user-provided images. I created a Python script within Blender that reads an image from the user's drive, extracts colors with the extcolors library, and applies these colors to the gun's materials.
 
