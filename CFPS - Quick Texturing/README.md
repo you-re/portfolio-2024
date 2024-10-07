@@ -10,7 +10,7 @@ For the CFPS (Cyber First Person Shooter) project, I was tasked with developing 
 | ------------- | ------------- |
 | ![](https://github.com/user-attachments/assets/b4dccbe5-5b05-4a46-b1e8-a7d0ac81b61c) | ![](https://github.com/user-attachments/assets/1cf44141-ff1a-4ec4-9570-445777a0da08) |
 
-
+## Challenges
 A major challenge was ensuring accurate color representation, as the extracted colors were in a linear format. To resolve this, I wrote a function to convert them back to sRGB. The script was designed to apply the most prominent color (typically the background) to the base material, ensuring a seamless blend with the image on the gun surface. Additionally, the PBR textures were created in Substance Designer to allow for easy recoloring within Blender.
 
 ### Tools Used: Blender (Python scripting), Python (extcolors library), Substance Designer
