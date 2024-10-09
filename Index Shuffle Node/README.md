@@ -8,7 +8,7 @@ In Blender, the Distribute Points on Faces and Distribute Points in Volume nodes
 
 To overcome this, I developed the Index Shuffle Node, which randomizes point indices by randomly splitting points into two groups and rejoining them. This method allows for a fast, intuitive way to achieve more randomized distributions, ideal for creating natural layouts.
 
-| Left: _Shuffled Points_ | Right: _Standard Distribution_ |
+| _Shuffled Points_ | _Standard Distribution_ |
 | ---------------------- | ---------------------- |
 | <video width=500 alt="Shuffled points video" src="https://github.com/user-attachments/assets/2b478542-a433-43ba-a847-c8a54b1942af"></video> | <video width=500 alt="Standard distribution points video" src="https://github.com/user-attachments/assets/d4b30ae5-6006-4e2a-8483-ab04ea15fd70"></video>
 
