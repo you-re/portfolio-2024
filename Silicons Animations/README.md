@@ -1,5 +1,7 @@
 # Silicons Animations
 
+Link to the github [repository.](https://github.com/you-re/Silicons)
+
 ## Task Description
 The client needed an efficient method to create thousands of NFT animations from a set of 100+ assets. My responsibilities included character animation, clothing simulations, automating the rendering and optimizing the workflow.
 
