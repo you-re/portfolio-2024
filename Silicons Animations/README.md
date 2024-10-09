@@ -3,7 +3,7 @@
 ## Task Description
 The client needed an efficient method to create thousands of NFT animations from a set of 100+ assets. My responsibilities included character animation, clothing simulations, automating the rendering and optimizing the workflow.
 
-![Video of 3D assets](https://github.com/user-attachments/assets/c7b7180f-1604-43c2-82d3-74b278747077)
+https://github.com/user-attachments/assets/c7b7180f-1604-43c2-82d3-74b278747077
 
 ## Thought Proccess
 Initially, I considered rendering each combination of assets separately, but I quickly realized this would lead to extremely long render times. Instead, I chose to render each asset as a separate layer and then composite them in After Effects.
