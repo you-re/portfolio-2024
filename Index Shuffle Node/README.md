@@ -10,7 +10,7 @@ To overcome this, I developed the Index Shuffle Node, which randomizes point ind
 
 | Left: _Shuffled Points_ | Right: _Standard Distribution_ |
 | ---------------------- | ---------------------- |
-| <video width=500 alt="Shuffled points video" src="https://github.com/user-attachments/assets/ead40cd9-548b-466e-84f2-4e55e3a65625"></video> | <video width=500 alt="Standard distribution points video" src="https://github.com/user-attachments/assets/974ee8a6-327e-42e0-a3c4-6d006d7510af"></video>
+| <video width=500 alt="Shuffled points video" src="https://github.com/user-attachments/assets/2b478542-a433-43ba-a847-c8a54b1942af"></video> | <video width=500 alt="Standard distribution points video" src="https://github.com/user-attachments/assets/d4b30ae5-6006-4e2a-8483-ab04ea15fd70"></video>
 
 ## Customization and Performance
 
