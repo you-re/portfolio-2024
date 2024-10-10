@@ -8,6 +8,8 @@ The Camera Culler is a custom tool developed for Blender to significantly improv
 ## How It Works
 The initial proof of concept used ray casting to determine whether a point was visible to the camera. However, this was later optimized for greater efficiency. In the final version, point positions are directly projected onto the camera’s screen space, which leads to significant performance improvements. This method not only streamlines culling but also generates free screen space UV coordinates, enabling further enhancements like image-based point culling.
 
+
+
 The toolset includes:
  - **Frustum culling:** Basic culling of objects outside the camera’s view.
  - **Image-based culling:** Uses image luminosity to cull points based on visibility.
