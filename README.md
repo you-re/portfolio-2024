@@ -1,4 +1,5 @@
 # Jure Sulič - Portfolio 2024
+
 Experienced 3D Generalist and Technical Artist specializing in asset creation, optimization, and scripting with Blender and Houdini. Strong background in freelance work and teaching.
 
 ## Projects
