@@ -3,6 +3,8 @@
 ## Task Description
 The client required a visually striking collection of modular 3D guns aimed at attracting a younger audience, particularly fans of multiplayer first-person shooters (FPS). My responsibilities included modeling and texturing five base guns and over 30 unique attachments, creating modular animations, and optimizing the entire rendering pipeline. The assets needed to be flexible for different configurations while maintaining a "cool" aesthetic that would resonate with gamers.
 
+<video width="400" alt="3D assets video loop" loop muted src="https://github.com/user-attachments/assets/a0644ce9-d4ea-452f-b918-6c7af6d31f57"></video>
+
 ## Thought Process
 Due to the tight two-month timeline, my priority was efficiency. All attachments needed to be interchangeable across the base gun models. To streamline asset management, I used Blender for all stages of the workflow, eliminating time-consuming import/export steps. After discussing rendering options with the client, we chose Blender’s Eevee engine for real-time rendering, significantly cutting down on render times without sacrificing visual quality.
 
