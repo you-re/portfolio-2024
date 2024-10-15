@@ -6,10 +6,9 @@ Experienced 3D Generalist and Technical Artist specializing in asset creation, o
 
 | | |
 | :---: | :---: |
-| [**Index Shuffle Node**](https://github.com/you-re/portfolio-2024/tree/main/Index%20Shuffle%20Node) - Blender (Geometry Nodes) | [**Camera Culler Node**](https://github.com/you-re/portfolio-2024/tree/main/Camera%20Culler) - Blender (Geometry Nodes) + Python |
-| ![Index Shuffle Node](https://github.com/user-attachments/assets/dab5a07b-6c5f-4149-aa2f-3e8a54890bbb) | ![Camera Culler Screenshoot](https://github.com/user-attachments/assets/f1e4e158-75eb-4042-a227-7ae47edf0fea) |
-| [**Quick Texturing**](https://github.com/you-re/portfolio-2024/tree/main/CFPS%20-%20Quick%20Texturing) Blender + Python | [**Silicons Animations**](https://github.com/you-re/portfolio-2024/tree/main/Silicons%20Animations) - Blender + Python, After Effects + JavaScript |
-| ![Quick Texturing](https://github.com/user-attachments/assets/01ffc999-1b0c-4c84-b364-c3168aee1dd3) | ![Silicons Cover](https://github.com/user-attachments/assets/bdcaa9c8-269a-4a7a-ba56-276fcac36bb9) |
-| [**Silicons Teaser**](https://github.com/you-re/portfolio-2024/tree/main/Silicons%Teaser) - Blender | [**Cryptostraps**](https://github.com/you-re/portfolio-2024/tree/main/Cryptostraps) - Blender + Python |
-| ![Silicons Teaser Thumbnail](https://github.com/user-attachments/assets/fdb70892-35da-4fe2-945d-40a9fc0042b5) | ![Cryptostraps Thumbnail](https://github.com/user-attachments/assets/be784d67-b1ab-4671-b0e2-2d32576d0ccb) |
-
+| [**Index Shuffle Node**](https://github.com/you-re/portfolio-2024/tree/main/Index%20Shuffle%20Node) - Blender | [**Camera Culler Node**](https://github.com/you-re/portfolio-2024/tree/main/Camera%20Culler) - Blender, Python |
+| <img src="https://github.com/user-attachments/assets/bf82fccc-2d01-4455-a8e4-65c077fe0634" width="400"> | <img src="https://github.com/user-attachments/assets/ad5f2833-ecad-45c3-a1b5-d20e7a6702cb" width=400> |
+| [**Quick Texturing**](https://github.com/you-re/portfolio-2024/tree/main/CFPS%20-%20Quick%20Texturing) Blender, Python | [**Silicons Animations**](https://github.com/you-re/portfolio-2024/tree/main/Silicons%20Animations) - Blender, AfterEffects, Python, JavaScript |
+| <img src="https://github.com/user-attachments/assets/8fde737d-bb4b-40fc-9a36-59ad35984e08" width=400> | <img src="https://github.com/user-attachments/assets/693cb3a4-d4cd-4ccd-8377-d427676427df" width=400> |
+| [**Silicons Teaser**](https://github.com/you-re/portfolio-2024/tree/main/Silicons%20Teaser) - Blender | [**Cryptostraps**](https://github.com/you-re/portfolio-2024/tree/main/Cryptostraps) - Blender, Python |
+| <img src="https://github.com/user-attachments/assets/9d68b505-7c38-43c6-8664-994f85dd5068" width=400> | <img src="https://github.com/user-attachments/assets/c0ae8dfa-5116-45b2-85b3-3a5e90f5f46d" width=400> |
