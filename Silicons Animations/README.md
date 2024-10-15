@@ -1,7 +1,5 @@
 # Silicons Animations
 
-Link to the github [repository.](https://github.com/you-re/Silicons)
-
 ## Task Description
 The client needed an efficient method to create thousands of NFT animations from a set of 100+ assets. My responsibilities included character animation, clothing simulations, automating the rendering and optimizing the workflow.
 
@@ -19,3 +17,5 @@ This approach avoided redundant rendering of the same assets multiple times, red
 After optimizing and simulating garments, I batch imported everything into Blender, ensuring materials and animations were correct. I used a Python script to automate individual asset rendering.
 
 <video width="500" alt="Video of compositing process" loop muted src="https://github.com/user-attachments/assets/d73d5342-b77b-4557-b915-4bafd8ba30c5"></video>
+
+Link to the github [repository.](https://github.com/you-re/Silicons)
