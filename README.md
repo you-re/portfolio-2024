@@ -12,3 +12,5 @@ Experienced 3D Generalist and Technical Artist specializing in asset creation, o
 | <img src="https://github.com/user-attachments/assets/8fde737d-bb4b-40fc-9a36-59ad35984e08" width=400> | <img src="https://github.com/user-attachments/assets/693cb3a4-d4cd-4ccd-8377-d427676427df" width=400> |
 | [**Silicons Teaser**](https://github.com/you-re/portfolio-2024/tree/main/Silicons%20Teaser) - Blender | [**Cryptostraps**](https://github.com/you-re/portfolio-2024/tree/main/Cryptostraps) - Blender, Python |
 | <img src="https://github.com/user-attachments/assets/9d68b505-7c38-43c6-8664-994f85dd5068" width=400> | <img src="https://github.com/user-attachments/assets/c0ae8dfa-5116-45b2-85b3-3a5e90f5f46d" width=400> |
+| [**Propagation Solver**](https://github.com/user-attachments/assets/d24cc2cb-ab6c-464f-a61e-416374b51333) - Blender | [**Tiffany Medusa**](https://github.com/you-re/portfolio-2024/tree/main/Cryptostraps) - Blender |
+| <img src="https://github.com/user-attachments/assets/9d68b505-7c38-43c6-8664-994f85dd5068" width=400> | <img src="https://github.com/user-attachments/assets/c0ae8dfa-5116-45b2-85b3-3a5e90f5f46d" width=400> |
