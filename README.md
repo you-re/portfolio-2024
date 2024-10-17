@@ -6,7 +6,7 @@ Experienced 3D Generalist and Technical Artist specializing in asset creation, o
 
 | | |
 | :---: | :---: |
-| [**Propagation Solver**](https://github.com/you-re/portfolio-2024/tree/main/Propagation%20Solver) - Blender | [**Medusa**](https://github.com/you-re/portfolio-2024/tree/main/Medusa) - Blender |
+| [**Propagation Solver**](https://github.com/you-re/portfolio-2024/tree/main/Propagation%20Solver) - Blender, Fusion | [**Medusa**](https://github.com/you-re/portfolio-2024/tree/main/Medusa) - Blender, Fusion |
 | <img src="https://github.com/user-attachments/assets/d24cc2cb-ab6c-464f-a61e-416374b51333" width=400> | <img src="https://github.com/user-attachments/assets/285bd033-97b3-4970-8183-c14dfca22469" width=400> |
 | [**Index Shuffle Node**](https://github.com/you-re/portfolio-2024/tree/main/Index%20Shuffle%20Node) - Blender | [**Camera Culler Node**](https://github.com/you-re/portfolio-2024/tree/main/Camera%20Culler) - Blender, Python |
 | <img src="https://github.com/user-attachments/assets/bf82fccc-2d01-4455-a8e4-65c077fe0634" width="400"> | <img src="https://github.com/user-attachments/assets/ad5f2833-ecad-45c3-a1b5-d20e7a6702cb" width=400> |
