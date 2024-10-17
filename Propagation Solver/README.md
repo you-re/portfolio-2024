@@ -3,6 +3,8 @@
 ## Task Description
 The Propagation Solver was a personal project aimed at testing the capabilities of Blender's new Geometry Nodes workflow for creating custom simulation solvers. The goal was to simulate a growth or propagation effect by manipulating point attributes, which I later used to instance foliage geometry. I explored the feasibility of using Geometry Nodes for such simulations, but after testing, I realized that alternative workflows would yield better performance in future projects.
 
+![Propagation Solver Render](https://www.youtube.com/watch?v=ZwkmGAm5ChI)
+
 ## Thought Process
 My initial approach involved using Geometry Nodes to check attributes of multiple neighboring points to simulate propagation. However, Blender’s current system for this operation proved too slow for practical use. To overcome this, I adopted a faster method by blurring the points' active attributes, simulating the effect of propagation in a more efficient manner. This blurring technique provided the necessary performance boost while maintaining the desired growth effect.
 
