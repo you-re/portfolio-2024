@@ -4,7 +4,7 @@ Experienced 3D Generalist and Technical Artist specializing in asset creation, o
 
 ## Projects
 
-| <img src="https://github.com/user-attachments/assets/d24cc2cb-ab6c-464f-a61e-416374b51333" width=400> | <img src="https://github.com/user-attachments/assets/285bd033-97b3-4970-8183-c14dfca22469" width=400> |
+| <img src="https://github.com/user-attachments/assets/d24cc2cb-ab6c-464f-a61e-416374b51333" width=400> | <img src="https://github.com/user-attachments/assets/4f28777e-956c-4208-9255-8e1a7de2dec6" width=400> |
 | :---: | :---: |
 | [**Propagation Solver**](https://github.com/you-re/portfolio-2024/tree/main/Propagation%20Solver) - Blender, Fusion | [**Medusa**](https://github.com/you-re/portfolio-2024/tree/main/Medusa) - Blender, Fusion |
 | <img src="https://github.com/user-attachments/assets/bf82fccc-2d01-4455-a8e4-65c077fe0634" width="400"> | <img src="https://github.com/user-attachments/assets/ad5f2833-ecad-45c3-a1b5-d20e7a6702cb" width=400> |
@@ -14,3 +14,6 @@ Experienced 3D Generalist and Technical Artist specializing in asset creation, o
 | <img src="https://github.com/user-attachments/assets/9d68b505-7c38-43c6-8664-994f85dd5068" width=400> | <img src="https://github.com/user-attachments/assets/693cb3a4-d4cd-4ccd-8377-d427676427df" width=400> |
 | [**Silicons Teaser**](https://github.com/you-re/portfolio-2024/tree/main/Silicons%20Teaser) - Blender | [**Silicons Animations**](https://github.com/you-re/portfolio-2024/tree/main/Silicons%20Animations) - Blender, AfterEffects, Python, JavaScript |
 
+![MedusaThumbnail02](https://github.com/user-attachments/assets/4f28777e-956c-4208-9255-8e1a7de2dec6)
+
+[(https://github.com/you-re/portfolio-2024/tree/main/Propagation%20Solver)](https://github.com/user-attachments/assets/d24cc2cb-ab6c-464f-a61e-416374b51333)
